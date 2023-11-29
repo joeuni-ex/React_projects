@@ -1,32 +1,31 @@
-import p1 from './assets/birthday.png';
-import p2 from './assets/tours.png';
-import p3 from './assets/reviews.png';
-import p4 from './assets/questions.png';
-
+import p1 from "./assets/movieApp.png";
+import p2 from "./assets/imageGallery.png";
+import p3 from "./assets/cookingRecipe.png";
+import p4 from "./assets/taskApp.png";
 
 export const projects = [
   {
     id: 1,
-    title: 'birthday buddy',
-    url: 'https://react-vite-projects-1-birthday-buddy.netlify.app/',
+    title: "MovieApp",
+    url: "https://react-newmovieapp-joeuni.netlify.app/",
     image: p1,
   },
   {
     id: 2,
-    title: 'tours',
-    url: 'https://react-vite-projects-2-tours.netlify.app/',
+    title: "ImageGallery",
+    url: "https://react-imagegallery-joeuni89.netlify.app/",
     image: p2,
   },
   {
     id: 3,
-    title: 'reviews',
-    url: 'https://react-vite-projects-3-reviews.netlify.app/',
+    title: "CookingRecipe",
+    url: "https://react-cooking-recipe-app-joeuni.netlify.app/",
     image: p3,
   },
   {
     id: 4,
-    title: 'questions',
-    url: 'https://react-vite-projects-4-accordion.netlify.app/',
+    title: "TaskApp",
+    url: "https://react-vite-projects-4-accordion.netlify.app/",
     image: p4,
   },
 ];
