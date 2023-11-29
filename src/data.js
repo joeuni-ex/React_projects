@@ -4,8 +4,8 @@ import p3 from "./assets/cookingRecipe.png";
 import p4 from "./assets/taskApp.png";
 import p5 from "./assets/magicCard.png";
 import p6 from "./assets/imageGallery2.png";
-import p7 from "./assets/taskApp.png";
-import p8 from "./assets/taskApp.png";
+import p7 from "./assets/backroads.png";
+import p8 from "./assets/movieApp2.png";
 
 export const projects = [
   {
@@ -29,7 +29,7 @@ export const projects = [
   {
     id: 4,
     title: "TaskApp",
-    url: "https://react-vite-projects-4-accordion.netlify.app/",
+    url: "https://taskapp-joeuni.netlify.app/",
     image: p4,
   },
   {
@@ -46,14 +46,14 @@ export const projects = [
   },
   {
     id: 7,
-    title: "TaskApp",
-    url: "https://react-vite-projects-4-accordion.netlify.app/",
+    title: "BackRoads",
+    url: "https://react-backroads-joeuni.netlify.app/",
     image: p7,
   },
   {
     id: 8,
-    title: "TaskApp",
-    url: "https://react-vite-projects-4-accordion.netlify.app/",
+    title: "MovieSearch",
+    url: "https://react-movieapp-joeuni.netlify.app/",
     image: p8,
   },
 ];
