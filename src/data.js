@@ -10,7 +10,9 @@ import p9 from "./assets/firebaseTodo.png";
 import p10 from "./assets/superChat.png";
 import p11 from "./assets/Mymoney.png";
 import p12 from "./assets/githubFinder.png";
-
+import p13 from "./assets/nwitter.png";
+import p14 from "./assets/bookstore.png";
+import p15 from "./assets/myCart.png";
 export const projects = [
   {
     id: 1,
@@ -20,72 +22,90 @@ export const projects = [
   },
   {
     id: 2,
+    title: "Nwitter App",
+    url: "https://nwitter-5aa7d.firebaseapp.com/",
+    image: p13,
+  },
+  {
+    id: 3,
+    title: "BookStore App",
+    url: "https://react-bookstore-joeuni-ex.netlify.app/",
+    image: p14,
+  },
+  {
+    id: 4,
+    title: "myCart App",
+    url: "https://mycart-frontend-joeuni-ex.netlify.app/",
+    image: p15,
+  },
+  {
+    id: 5,
     title: "ImageGallery App",
     url: "https://react-imagegallery-joeuni89.netlify.app/",
     image: p2,
   },
   {
-    id: 3,
+    id: 6,
     title: "MytodoList App",
     url: "https://react-firebase9-todolist-joeuni.netlify.app/",
     image: p9,
   },
   {
-    id: 4,
+    id: 7,
     title: "SuperChat App",
     url: "https://react-superchat-joeuni.netlify.app/",
     image: p10,
   },
 
   {
-    id: 5,
+    id: 8,
     title: "MyMoney App",
     url: "https://react-my-money-app-joeuni.netlify.app/",
     image: p11,
   },
 
   {
-    id: 6,
+    id: 9,
     title: "GithubFinder App",
     url: "https://react-github-app-joeuni.netlify.app/",
     image: p12,
   },
 
   {
-    id: 7,
+    id: 10,
     title: "BackRoads App",
     url: "https://react-backroads-joeuni.netlify.app/",
     image: p7,
   },
   {
-    id: 8,
+    id: 11,
     title: "CookingRecipe App",
     url: "https://react-cooking-recipe-app-joeuni.netlify.app/",
     image: p3,
   },
   {
-    id: 9,
+    id: 12,
     title: "MovieSearch App",
     url: "https://react-movieapp-joeuni.netlify.app/",
     image: p8,
   },
 
   {
-    id: 10,
+    id: 13,
     title: "Task App",
     url: "https://taskapp-joeuni.netlify.app/",
     image: p4,
   },
 
   {
-    id: 11,
+    id: 14,
     title: "MagicCardGame App",
     url: "https://react-magicgame-joeuni.netlify.app/",
     image: p5,
   },
 
   {
-    id: 12,
+    id: 15,
     title: "ImageSearch App",
     url: "https://react-imagegallery-joeuni.netlify.app/",
     image: p6,
